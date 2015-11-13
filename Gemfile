@@ -13,6 +13,8 @@ gem 'coffee-rails', '~> 4.1.0'
 
 gem 'turbolinks'
 
+gem 'jquery-turbolinks'
+
 gem 'jquery-rails'
 
 
